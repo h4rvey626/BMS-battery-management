@@ -1,0 +1,9 @@
+../Core/Src/i2c.c:47:6:MX_I2C1_Init	8	static
+../Core/Src/i2c.c:76:6:HAL_I2C_MspInit	32	static
+../Core/Src/i2c.c:106:6:HAL_I2C_MspDeInit	8	static
+../Core/Src/i2c.c:140:19:I2C_WriteByte	32	static
+../Core/Src/i2c.c:153:19:I2C_ReadByte	24	static
+../Core/Src/i2c.c:167:19:I2C_WriteBytes	24	static
+../Core/Src/i2c.c:181:19:I2C_ReadBytes	24	static
+../Core/Src/i2c.c:195:19:BQ76940_WriteByte_CRC	32	static
+../Core/Src/i2c.c:215:10:BQ76940_ReadBytes_u32	24	static

@@ -1,0 +1,5 @@
+../Core/Src/freertos.c:171:6:StartSampleTask	8	static
+../Core/Src/freertos.c:216:6:StartCommTask	8	static
+../Core/Src/freertos.c:243:6:StartbalanceTask	72	static
+../Core/Src/freertos.c:327:6:StartprotectTask	80	static
+../Core/Src/freertos.c:104:6:MX_FREERTOS_Init	8	static
